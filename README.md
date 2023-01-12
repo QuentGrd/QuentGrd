@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quentin Gerard (@QuentGrd)
-- 🧠 I’m a computer science engineer specialized in Machine/Deep Learning, but on my free time I'm working on many other fields
+- 🧠 I’m a Data Scientist / Machine Learning Engineer specialised in Computer Vision and Audio Processing, but still interested by other fields in Machine Learning.
 - 📫 You can reach me by mail at: quentin.gerard2@gmail.com
 
 <!---
